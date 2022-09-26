@@ -1,2 +1,3 @@
 # Proyecto3ControladorSatelit
-Contrilador de satélite espacial
+Controlador de satélite espacial
+Se corrige error en produccion
